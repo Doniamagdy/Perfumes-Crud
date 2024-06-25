@@ -1,0 +1,17 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(EmiratesMedium.ttf);
+  }
+  
+*{
+    font-family: myFirstFont;
+}
+
+
+.header{
+  height:60vh;
+  background-image: url(Brown\ Modern\ Workshop\ Make\ Perfume\ Banner.png);
+  background-position: center;
+  background-size:cover;
+}
+
